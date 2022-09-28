@@ -1,0 +1,260 @@
+We successfully logged in
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 5wjrxarmze9yetfibhhm9xz914vb43n7
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 13:37:12 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = fV1yPvk7ArSDOBbuyNES65hj147K12Gn
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:07:29 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = snoq0bxbahuq33vsh4migm79rpr755bn
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 13:43:13 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = smbFDAnVEMOkKoQiNsQe4J0ZbHVsvXzX
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:13:16 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = w1a2l7tlxx1sdq84m840da5qd6tu137l
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 13:46:28 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 1s2QsJeY9HDQOHkeS4HXdDr6vzoEx6S9
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:16:32 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = kpo0qxkwyyxmqy6zikwilawn5zpi1h78
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 13:58:57 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = e8foWqyeL74mFJJenI5ipJoOsqtz1ggs
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:29:07 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = ur5w0kbwjsg4xlidcui9j9c14j7fgnz3
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:05:30 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 1pFM53nSZqVqcJEpdties3qXTEV0JiOc
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:36:56 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 8zbc75hrzlr5ci9aw604y0sdwl7dhk62
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:09:59 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = YppFW2wZAY2p7qxyGuVAAOseYA97Fv4c
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:40:02 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = fzqf97wake1v1rl28h1w3kuvap1dgs0n
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:12:37 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = XHcc98hczsnrxcMlb4ywGbs9GZ5n8fiu
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:42:40 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = b99fk32jimeyw1om8hxg81ju6ubwnbty
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:18:43 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 5uSnSPFhRJEAQ1eBZ5EuWpEq8unSDe18
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:48:49 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser
+We successfully logged in
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 1osiqqnnz5xpza70levdevh192h5rizu
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:21:22 LHDT 2022
+Is http only? = true
+Are cookies secure? = false
+==============================================================================
+Details of cookies
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = Q17VbUdHLQ8YCFm80d94EiVN4sJ3Ce36
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:51:26 LHST 2023
+Is http only? = false
+Are cookies secure? = false
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the browser

@@ -1,0 +1,2583 @@
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = RxVLVzKXrRVDam9TX8a66t7ADgJYHmwE
+Values of cookies = RxVLVzKXrRVDam9TX8a66t7ADgJYHmwE
+Values of cookies = RxVLVzKXrRVDam9TX8a66t7ADgJYHmwE
+Values of cookies = RxVLVzKXrRVDam9TX8a66t7ADgJYHmwE
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Tue Sep 26 21:06:12 LHST 2023
+Expiry date and time of cookies = Tue Sep 26 21:06:12 LHST 2023
+Expiry date and time of cookies = Tue Sep 26 21:06:12 LHST 2023
+Expiry date and time of cookies = Tue Sep 26 21:06:12 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 6vOcMnlsg1nVtc2BgbmQnt689HgecO1d
+Values of cookies = 6vOcMnlsg1nVtc2BgbmQnt689HgecO1d
+Values of cookies = 6vOcMnlsg1nVtc2BgbmQnt689HgecO1d
+Values of cookies = 6vOcMnlsg1nVtc2BgbmQnt689HgecO1d
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 11:12:28 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 11:12:28 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 11:12:28 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 11:12:28 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 1jYHYY8k11VyR7LuCFZv9roXBx7apgJr
+Values of cookies = 1jYHYY8k11VyR7LuCFZv9roXBx7apgJr
+Values of cookies = 1jYHYY8k11VyR7LuCFZv9roXBx7apgJr
+Values of cookies = 1jYHYY8k11VyR7LuCFZv9roXBx7apgJr
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:06:59 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:06:59 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:06:59 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:06:59 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 5wjrxarmze9yetfibhhm9xz914vb43n7
+Values of cookies = 5wjrxarmze9yetfibhhm9xz914vb43n7
+Values of cookies = 5wjrxarmze9yetfibhhm9xz914vb43n7
+Values of cookies = 5wjrxarmze9yetfibhhm9xz914vb43n7
+Values of cookies = 5wjrxarmze9yetfibhhm9xz914vb43n7
+Values of cookies = 5wjrxarmze9yetfibhhm9xz914vb43n7
+Values of cookies = 5wjrxarmze9yetfibhhm9xz914vb43n7
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 13:37:12 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:37:12 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:37:12 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:37:12 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:37:12 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:37:12 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:37:12 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = fV1yPvk7ArSDOBbuyNES65hj147K12Gn
+Values of cookies = fV1yPvk7ArSDOBbuyNES65hj147K12Gn
+Values of cookies = fV1yPvk7ArSDOBbuyNES65hj147K12Gn
+Values of cookies = fV1yPvk7ArSDOBbuyNES65hj147K12Gn
+Values of cookies = fV1yPvk7ArSDOBbuyNES65hj147K12Gn
+Values of cookies = fV1yPvk7ArSDOBbuyNES65hj147K12Gn
+Values of cookies = fV1yPvk7ArSDOBbuyNES65hj147K12Gn
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:07:29 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:07:29 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:07:29 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:07:29 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:07:29 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:07:29 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:07:29 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 3G5OzL0W6kWJva87spHnwagXtYVUP51S
+Values of cookies = 3G5OzL0W6kWJva87spHnwagXtYVUP51S
+Values of cookies = 3G5OzL0W6kWJva87spHnwagXtYVUP51S
+Values of cookies = 3G5OzL0W6kWJva87spHnwagXtYVUP51S
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:13:03 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:03 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:03 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:03 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = snoq0bxbahuq33vsh4migm79rpr755bn
+Values of cookies = snoq0bxbahuq33vsh4migm79rpr755bn
+Values of cookies = snoq0bxbahuq33vsh4migm79rpr755bn
+Values of cookies = snoq0bxbahuq33vsh4migm79rpr755bn
+Values of cookies = snoq0bxbahuq33vsh4migm79rpr755bn
+Values of cookies = snoq0bxbahuq33vsh4migm79rpr755bn
+Values of cookies = snoq0bxbahuq33vsh4migm79rpr755bn
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 13:43:13 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:43:13 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:43:13 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:43:13 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:43:13 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:43:13 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:43:13 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = smbFDAnVEMOkKoQiNsQe4J0ZbHVsvXzX
+Values of cookies = smbFDAnVEMOkKoQiNsQe4J0ZbHVsvXzX
+Values of cookies = smbFDAnVEMOkKoQiNsQe4J0ZbHVsvXzX
+Values of cookies = smbFDAnVEMOkKoQiNsQe4J0ZbHVsvXzX
+Values of cookies = smbFDAnVEMOkKoQiNsQe4J0ZbHVsvXzX
+Values of cookies = smbFDAnVEMOkKoQiNsQe4J0ZbHVsvXzX
+Values of cookies = smbFDAnVEMOkKoQiNsQe4J0ZbHVsvXzX
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:13:16 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:16 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:16 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:16 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:16 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:16 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:13:16 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = gAx7MJUIfRcHQXU12mSqhMp8wdfBHD2j
+Values of cookies = gAx7MJUIfRcHQXU12mSqhMp8wdfBHD2j
+Values of cookies = gAx7MJUIfRcHQXU12mSqhMp8wdfBHD2j
+Values of cookies = gAx7MJUIfRcHQXU12mSqhMp8wdfBHD2j
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:16:18 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:18 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:18 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:18 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = w1a2l7tlxx1sdq84m840da5qd6tu137l
+Values of cookies = w1a2l7tlxx1sdq84m840da5qd6tu137l
+Values of cookies = w1a2l7tlxx1sdq84m840da5qd6tu137l
+Values of cookies = w1a2l7tlxx1sdq84m840da5qd6tu137l
+Values of cookies = w1a2l7tlxx1sdq84m840da5qd6tu137l
+Values of cookies = w1a2l7tlxx1sdq84m840da5qd6tu137l
+Values of cookies = w1a2l7tlxx1sdq84m840da5qd6tu137l
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 13:46:28 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:46:28 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:46:28 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:46:28 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:46:28 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:46:28 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:46:28 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 1s2QsJeY9HDQOHkeS4HXdDr6vzoEx6S9
+Values of cookies = 1s2QsJeY9HDQOHkeS4HXdDr6vzoEx6S9
+Values of cookies = 1s2QsJeY9HDQOHkeS4HXdDr6vzoEx6S9
+Values of cookies = 1s2QsJeY9HDQOHkeS4HXdDr6vzoEx6S9
+Values of cookies = 1s2QsJeY9HDQOHkeS4HXdDr6vzoEx6S9
+Values of cookies = 1s2QsJeY9HDQOHkeS4HXdDr6vzoEx6S9
+Values of cookies = 1s2QsJeY9HDQOHkeS4HXdDr6vzoEx6S9
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:16:32 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:32 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:32 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:32 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:32 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:32 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:16:32 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = x8hpuWQWmhjKcWgK599zQ1fFJgHK7LMu
+Values of cookies = x8hpuWQWmhjKcWgK599zQ1fFJgHK7LMu
+Values of cookies = x8hpuWQWmhjKcWgK599zQ1fFJgHK7LMu
+Values of cookies = x8hpuWQWmhjKcWgK599zQ1fFJgHK7LMu
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:17:48 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:17:48 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:17:48 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:17:48 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = wDhlv2MqRHsq83pfXMDbCFDUoeXPbWgA
+Values of cookies = wDhlv2MqRHsq83pfXMDbCFDUoeXPbWgA
+Values of cookies = wDhlv2MqRHsq83pfXMDbCFDUoeXPbWgA
+Values of cookies = wDhlv2MqRHsq83pfXMDbCFDUoeXPbWgA
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:28:47 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:28:47 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:28:47 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:28:47 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = kpo0qxkwyyxmqy6zikwilawn5zpi1h78
+Values of cookies = kpo0qxkwyyxmqy6zikwilawn5zpi1h78
+Values of cookies = kpo0qxkwyyxmqy6zikwilawn5zpi1h78
+Values of cookies = kpo0qxkwyyxmqy6zikwilawn5zpi1h78
+Values of cookies = kpo0qxkwyyxmqy6zikwilawn5zpi1h78
+Values of cookies = kpo0qxkwyyxmqy6zikwilawn5zpi1h78
+Values of cookies = kpo0qxkwyyxmqy6zikwilawn5zpi1h78
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 13:58:57 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:58:57 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:58:57 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:58:57 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:58:57 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:58:57 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 13:58:57 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = e8foWqyeL74mFJJenI5ipJoOsqtz1ggs
+Values of cookies = e8foWqyeL74mFJJenI5ipJoOsqtz1ggs
+Values of cookies = e8foWqyeL74mFJJenI5ipJoOsqtz1ggs
+Values of cookies = e8foWqyeL74mFJJenI5ipJoOsqtz1ggs
+Values of cookies = e8foWqyeL74mFJJenI5ipJoOsqtz1ggs
+Values of cookies = e8foWqyeL74mFJJenI5ipJoOsqtz1ggs
+Values of cookies = e8foWqyeL74mFJJenI5ipJoOsqtz1ggs
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:29:07 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:29:07 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:29:07 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:29:07 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:29:07 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:29:07 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:29:07 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = dpkwUBgOfHa6pjqwU9In00hN77JFkya8
+Values of cookies = dpkwUBgOfHa6pjqwU9In00hN77JFkya8
+Values of cookies = dpkwUBgOfHa6pjqwU9In00hN77JFkya8
+Values of cookies = dpkwUBgOfHa6pjqwU9In00hN77JFkya8
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:35:12 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:35:12 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:35:12 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:35:12 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = ur5w0kbwjsg4xlidcui9j9c14j7fgnz3
+Values of cookies = ur5w0kbwjsg4xlidcui9j9c14j7fgnz3
+Values of cookies = ur5w0kbwjsg4xlidcui9j9c14j7fgnz3
+Values of cookies = ur5w0kbwjsg4xlidcui9j9c14j7fgnz3
+Values of cookies = ur5w0kbwjsg4xlidcui9j9c14j7fgnz3
+Values of cookies = ur5w0kbwjsg4xlidcui9j9c14j7fgnz3
+Values of cookies = ur5w0kbwjsg4xlidcui9j9c14j7fgnz3
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:05:30 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:05:30 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:05:30 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:05:30 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:05:30 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:05:30 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:05:30 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 1pFM53nSZqVqcJEpdties3qXTEV0JiOc
+Values of cookies = 1pFM53nSZqVqcJEpdties3qXTEV0JiOc
+Values of cookies = 1pFM53nSZqVqcJEpdties3qXTEV0JiOc
+Values of cookies = 1pFM53nSZqVqcJEpdties3qXTEV0JiOc
+Values of cookies = 1pFM53nSZqVqcJEpdties3qXTEV0JiOc
+Values of cookies = 1pFM53nSZqVqcJEpdties3qXTEV0JiOc
+Values of cookies = 1pFM53nSZqVqcJEpdties3qXTEV0JiOc
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:36:56 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:36:56 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:36:56 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:36:56 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:36:56 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:36:56 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:36:56 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = keRcx1Ei07QdnEtn3WoednWXnutczSuE
+Values of cookies = keRcx1Ei07QdnEtn3WoednWXnutczSuE
+Values of cookies = keRcx1Ei07QdnEtn3WoednWXnutczSuE
+Values of cookies = keRcx1Ei07QdnEtn3WoednWXnutczSuE
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:39:50 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:39:50 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:39:50 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:39:50 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 8zbc75hrzlr5ci9aw604y0sdwl7dhk62
+Values of cookies = 8zbc75hrzlr5ci9aw604y0sdwl7dhk62
+Values of cookies = 8zbc75hrzlr5ci9aw604y0sdwl7dhk62
+Values of cookies = 8zbc75hrzlr5ci9aw604y0sdwl7dhk62
+Values of cookies = 8zbc75hrzlr5ci9aw604y0sdwl7dhk62
+Values of cookies = 8zbc75hrzlr5ci9aw604y0sdwl7dhk62
+Values of cookies = 8zbc75hrzlr5ci9aw604y0sdwl7dhk62
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:09:59 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:09:59 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:09:59 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:09:59 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:09:59 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:09:59 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:09:59 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = YppFW2wZAY2p7qxyGuVAAOseYA97Fv4c
+Values of cookies = YppFW2wZAY2p7qxyGuVAAOseYA97Fv4c
+Values of cookies = YppFW2wZAY2p7qxyGuVAAOseYA97Fv4c
+Values of cookies = YppFW2wZAY2p7qxyGuVAAOseYA97Fv4c
+Values of cookies = YppFW2wZAY2p7qxyGuVAAOseYA97Fv4c
+Values of cookies = YppFW2wZAY2p7qxyGuVAAOseYA97Fv4c
+Values of cookies = YppFW2wZAY2p7qxyGuVAAOseYA97Fv4c
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:40:02 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:40:02 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:40:02 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:40:02 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:40:02 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:40:02 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:40:02 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = iDUVHsJTCXXaDIEBvKNnvC39AftfZcOp
+Values of cookies = iDUVHsJTCXXaDIEBvKNnvC39AftfZcOp
+Values of cookies = iDUVHsJTCXXaDIEBvKNnvC39AftfZcOp
+Values of cookies = iDUVHsJTCXXaDIEBvKNnvC39AftfZcOp
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:42:28 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:28 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:28 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:28 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = fzqf97wake1v1rl28h1w3kuvap1dgs0n
+Values of cookies = fzqf97wake1v1rl28h1w3kuvap1dgs0n
+Values of cookies = fzqf97wake1v1rl28h1w3kuvap1dgs0n
+Values of cookies = fzqf97wake1v1rl28h1w3kuvap1dgs0n
+Values of cookies = fzqf97wake1v1rl28h1w3kuvap1dgs0n
+Values of cookies = fzqf97wake1v1rl28h1w3kuvap1dgs0n
+Values of cookies = fzqf97wake1v1rl28h1w3kuvap1dgs0n
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:12:37 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:12:37 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:12:37 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:12:37 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:12:37 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:12:37 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:12:37 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = XHcc98hczsnrxcMlb4ywGbs9GZ5n8fiu
+Values of cookies = XHcc98hczsnrxcMlb4ywGbs9GZ5n8fiu
+Values of cookies = XHcc98hczsnrxcMlb4ywGbs9GZ5n8fiu
+Values of cookies = XHcc98hczsnrxcMlb4ywGbs9GZ5n8fiu
+Values of cookies = XHcc98hczsnrxcMlb4ywGbs9GZ5n8fiu
+Values of cookies = XHcc98hczsnrxcMlb4ywGbs9GZ5n8fiu
+Values of cookies = XHcc98hczsnrxcMlb4ywGbs9GZ5n8fiu
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:42:40 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:40 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:40 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:40 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:40 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:40 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:42:40 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = berTIAPZGUIpwxMBBQbT7IARguzxyKeM
+Values of cookies = berTIAPZGUIpwxMBBQbT7IARguzxyKeM
+Values of cookies = berTIAPZGUIpwxMBBQbT7IARguzxyKeM
+Values of cookies = berTIAPZGUIpwxMBBQbT7IARguzxyKeM
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:48:10 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:10 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:10 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:10 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = b99fk32jimeyw1om8hxg81ju6ubwnbty
+Values of cookies = b99fk32jimeyw1om8hxg81ju6ubwnbty
+Values of cookies = b99fk32jimeyw1om8hxg81ju6ubwnbty
+Values of cookies = b99fk32jimeyw1om8hxg81ju6ubwnbty
+Values of cookies = b99fk32jimeyw1om8hxg81ju6ubwnbty
+Values of cookies = b99fk32jimeyw1om8hxg81ju6ubwnbty
+Values of cookies = b99fk32jimeyw1om8hxg81ju6ubwnbty
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:18:43 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:18:43 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:18:43 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:18:43 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:18:43 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:18:43 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:18:43 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 5uSnSPFhRJEAQ1eBZ5EuWpEq8unSDe18
+Values of cookies = 5uSnSPFhRJEAQ1eBZ5EuWpEq8unSDe18
+Values of cookies = 5uSnSPFhRJEAQ1eBZ5EuWpEq8unSDe18
+Values of cookies = 5uSnSPFhRJEAQ1eBZ5EuWpEq8unSDe18
+Values of cookies = 5uSnSPFhRJEAQ1eBZ5EuWpEq8unSDe18
+Values of cookies = 5uSnSPFhRJEAQ1eBZ5EuWpEq8unSDe18
+Values of cookies = 5uSnSPFhRJEAQ1eBZ5EuWpEq8unSDe18
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:48:49 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:49 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:49 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:49 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:49 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:49 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:48:49 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+Browser opened successfully
+Gram power url opened successfully
+Gram power url opened successfully
+Screen maximized successfully
+Screen maximized successfully
+Screen maximized successfully
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = BuGpxonpPfdAkIPB7Ze1TvmL03TyAh6q
+Values of cookies = BuGpxonpPfdAkIPB7Ze1TvmL03TyAh6q
+Values of cookies = BuGpxonpPfdAkIPB7Ze1TvmL03TyAh6q
+Values of cookies = BuGpxonpPfdAkIPB7Ze1TvmL03TyAh6q
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:51:13 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:13 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:13 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:13 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+Now we have to go for log in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully logged in
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+We successfully pause execution for 3 milli seconds
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Name of cookies = sessionid
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = 1osiqqnnz5xpza70levdevh192h5rizu
+Values of cookies = 1osiqqnnz5xpza70levdevh192h5rizu
+Values of cookies = 1osiqqnnz5xpza70levdevh192h5rizu
+Values of cookies = 1osiqqnnz5xpza70levdevh192h5rizu
+Values of cookies = 1osiqqnnz5xpza70levdevh192h5rizu
+Values of cookies = 1osiqqnnz5xpza70levdevh192h5rizu
+Values of cookies = 1osiqqnnz5xpza70levdevh192h5rizu
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Oct 12 14:21:22 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:21:22 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:21:22 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:21:22 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:21:22 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:21:22 LHDT 2022
+Expiry date and time of cookies = Wed Oct 12 14:21:22 LHDT 2022
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Is http only? = true
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Details of cookies
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Name of cookies = csrftoken
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Domain of cookies = data.grampower.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Class name of cookies = class org.openqa.selenium.Cookie
+Values of cookies = Q17VbUdHLQ8YCFm80d94EiVN4sJ3Ce36
+Values of cookies = Q17VbUdHLQ8YCFm80d94EiVN4sJ3Ce36
+Values of cookies = Q17VbUdHLQ8YCFm80d94EiVN4sJ3Ce36
+Values of cookies = Q17VbUdHLQ8YCFm80d94EiVN4sJ3Ce36
+Values of cookies = Q17VbUdHLQ8YCFm80d94EiVN4sJ3Ce36
+Values of cookies = Q17VbUdHLQ8YCFm80d94EiVN4sJ3Ce36
+Values of cookies = Q17VbUdHLQ8YCFm80d94EiVN4sJ3Ce36
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Path of cookies = /
+Expiry date and time of cookies = Wed Sep 27 13:51:26 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:26 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:26 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:26 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:26 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:26 LHST 2023
+Expiry date and time of cookies = Wed Sep 27 13:51:26 LHST 2023
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Is http only? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+Are cookies secure? = false
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully clicked on later button of pop up window
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+We successfully taken screenshot
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+After deleted all cookies
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the database connection
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
+We successfully closed the browser
